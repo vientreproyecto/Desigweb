@@ -1,0 +1,46 @@
+.typ{
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body {
+  background-image: url("../img/oficina.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+main {
+  background-color: rgba(255,255,255,0.85);
+  padding: 20px;
+}
+
+header {
+  background-color: rgba(255,255,255,0.85);
+  padding: 20px;
+}
+
+footer{
+  text-align: center;
+  background-color: #C62828;
+  color: white;
+}
+
+p{
+	text-align: center;
+}
+
+.navbar {
+  background-color: #C62828 !important;
+}
+
+.navbar .nav-link {
+  font-family: "Fredoka", sans-serif;
+  color: white !important;
+}
+
